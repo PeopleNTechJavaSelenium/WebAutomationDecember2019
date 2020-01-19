@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5376f51a-bb6b-4f3e-83fd-51bd252e102a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WcTqwrdxSYrLX9VIYrC2jewIOZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Cnn/src/test" />
+      <recent name="$PROJECT_DIR$/Amazon/src/test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG./Users/peoplentechny/IdeaProjects/WebAutomationDec2019/Amazon/src/test/resources/AmazonTestRunner.xml">
+    <configuration name="AmazonHome.test1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Amazon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="home.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="home" />
+      <option name="MAIN_CLASS_NAME" value="home.AmazonHome" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CnnTest.newsUpdate" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Cnn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="news.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="news" />
+      <option name="MAIN_CLASS_NAME" value="news.CnnTest" />
+      <option name="METHOD_NAME" value="newsUpdate" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/peoplentechny/IdeaProjects/WebAutomationDec2019/Amazon/src/test/resources/AmazonTestRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Amazon" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Amazon/src/test/resources/AmazonTestRunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/peoplentechny/IdeaProjects/WebAutomationDec2019/Cnn/src/test/resources/CnnTestRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Cnn" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Cnn/src/test/resources/CnnTestRunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG./Users/peoplentechny/IdeaProjects/WebAutomationDec2019/Amazon/src/test/resources/AmazonTestRunner.xml" />
+        <item itemvalue="TestNG.AmazonHome.test1" />
+        <item itemvalue="TestNG./Users/peoplentechny/IdeaProjects/WebAutomationDec2019/Cnn/src/test/resources/CnnTestRunner.xml" />
+        <item itemvalue="TestNG.CnnTest.newsUpdate" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5376f51a-bb6b-4f3e-83fd-51bd252e102a" name="Default Changelist" comment="" />
+      <created>1579448077598</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579448077598</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="563" y="163" key="#Project_Structure" timestamp="1579456273925">
+      <screen x="0" y="23" width="1920" height="978" />
+    </state>
+    <state x="563" y="163" key="#Project_Structure/0.23.1920.977@0.23.1920.977" timestamp="1579448414501" />
+    <state x="563" y="163" key="#Project_Structure/0.23.1920.978@0.23.1920.978" timestamp="1579456273925" />
+    <state width="1801" height="325" key="GridCell.Tab.0.bottom" timestamp="1579456164736">
+      <screen x="0" y="23" width="1920" height="978" />
+    </state>
+    <state width="1801" height="325" key="GridCell.Tab.0.bottom/0.23.1920.978@0.23.1920.978" timestamp="1579456164736" />
+    <state width="1801" height="325" key="GridCell.Tab.0.bottom/0.23.1920.980@0.23.1920.980" timestamp="1579456105670" />
+    <state width="1801" height="325" key="GridCell.Tab.0.center" timestamp="1579456164735">
+      <screen x="0" y="23" width="1920" height="978" />
+    </state>
+    <state width="1801" height="325" key="GridCell.Tab.0.center/0.23.1920.978@0.23.1920.978" timestamp="1579456164735" />
+    <state width="1801" height="325" key="GridCell.Tab.0.center/0.23.1920.980@0.23.1920.980" timestamp="1579456105669" />
+    <state width="1801" height="325" key="GridCell.Tab.0.left" timestamp="1579456164734">
+      <screen x="0" y="23" width="1920" height="978" />
+    </state>
+    <state width="1801" height="325" key="GridCell.Tab.0.left/0.23.1920.978@0.23.1920.978" timestamp="1579456164734" />
+    <state width="1801" height="325" key="GridCell.Tab.0.left/0.23.1920.980@0.23.1920.980" timestamp="1579456105669" />
+    <state width="1801" height="325" key="GridCell.Tab.0.right" timestamp="1579456164736">
+      <screen x="0" y="23" width="1920" height="978" />
+    </state>
+    <state width="1801" height="325" key="GridCell.Tab.0.right/0.23.1920.978@0.23.1920.978" timestamp="1579456164736" />
+    <state width="1801" height="325" key="GridCell.Tab.0.right/0.23.1920.980@0.23.1920.980" timestamp="1579456105670" />
+    <state width="1801" height="325" key="GridCell.Tab.1.bottom" timestamp="1579456177244">
+      <screen x="0" y="23" width="1920" height="980" />
+    </state>
+    <state width="1801" height="325" key="GridCell.Tab.1.bottom/0.23.1920.978@0.23.1920.978" timestamp="1579456164621" />
+    <state width="1801" height="325" key="GridCell.Tab.1.bottom/0.23.1920.980@0.23.1920.980" timestamp="1579456177244" />
+    <state width="1801" height="325" key="GridCell.Tab.1.center" timestamp="1579456177243">
+      <screen x="0" y="23" width="1920" height="980" />
+    </state>
+    <state width="1801" height="325" key="GridCell.Tab.1.center/0.23.1920.978@0.23.1920.978" timestamp="1579456164620" />
+    <state width="1801" height="325" key="GridCell.Tab.1.center/0.23.1920.980@0.23.1920.980" timestamp="1579456177243" />
+    <state width="1801" height="325" key="GridCell.Tab.1.left" timestamp="1579456177242">
+      <screen x="0" y="23" width="1920" height="980" />
+    </state>
+    <state width="1801" height="325" key="GridCell.Tab.1.left/0.23.1920.978@0.23.1920.978" timestamp="1579456164620" />
+    <state width="1801" height="325" key="GridCell.Tab.1.left/0.23.1920.980@0.23.1920.980" timestamp="1579456177242" />
+    <state width="1801" height="325" key="GridCell.Tab.1.right" timestamp="1579456177243">
+      <screen x="0" y="23" width="1920" height="980" />
+    </state>
+    <state width="1801" height="325" key="GridCell.Tab.1.right/0.23.1920.978@0.23.1920.978" timestamp="1579456164621" />
+    <state width="1801" height="325" key="GridCell.Tab.1.right/0.23.1920.980@0.23.1920.980" timestamp="1579456177243" />
+    <state x="446" y="132" key="SettingsEditor" timestamp="1579454546005">
+      <screen x="0" y="23" width="1920" height="980" />
+    </state>
+    <state x="446" y="132" key="SettingsEditor/0.23.1920.978@0.23.1920.978" timestamp="1579451871437" />
+    <state x="446" y="132" key="SettingsEditor/0.23.1920.980@0.23.1920.980" timestamp="1579454546005" />
+    <state x="393" y="195" key="new project wizard" timestamp="1579451120244">
+      <screen x="0" y="23" width="1920" height="978" />
+    </state>
+    <state x="393" y="195" key="new project wizard/0.23.1920.977@0.23.1920.977" timestamp="1579448216579" />
+    <state x="393" y="195" key="new project wizard/0.23.1920.978@0.23.1920.978" timestamp="1579451120244" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Amazon/src/main/java/home/AmazonHome.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
