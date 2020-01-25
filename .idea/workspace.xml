@@ -2,9 +2,64 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5376f51a-bb6b-4f3e-83fd-51bd252e102a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon/src/main/java/home/SearchPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon/src/test/java/search/TestSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon/target/classes/home/SearchPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/Amazon Automation Script /Amazon Home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/Amazon Automation Script /Amazon Home.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/TEST-TestSuite.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/TestSuite.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/bullet_point.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/collapseall.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/emailable-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/failed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/jquery-1.7.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/junitreports/TEST-home.AmazonHome.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/navigator-bullet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon Automation Script /Amazon Home.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon Automation Script /classes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon Automation Script /groups.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon Automation Script /index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon Automation Script /main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon Automation Script /methods-alphabetical.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon Automation Script /methods-not-run.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon Automation Script /methods.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon Automation Script /reporter-output.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon Automation Script /testng.xml.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon Automation Script /toc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/passed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/skipped.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/testng-reports.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/testng-reports.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/testng-results.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/testng.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Amazon/target/test-classes/search/TestSearch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cnn/src/main/java/home/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cnn/src/test/java/tabs/TestCnnTabs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cnn/target/Cnn-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cnn/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cnn/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cnn/target/test-classes/CnnTestRunner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic/browser-driver/IEDriverServer.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic/browser-driver/chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic/browser-driver/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic/browser-driver/geckodriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic/browser-driver/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic/target/Generic-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/src/main/java/home/AmazonHome.java" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/src/main/java/home/AmazonHome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/src/test/resources/AmazonTestRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/src/test/resources/AmazonTestRunner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/classes/home/AmazonHome.class" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/classes/home/AmazonHome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/test-classes/AmazonTestRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/test-classes/AmazonTestRunner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/classes/base/CommonAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/base/CommonAPI.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,12 +93,16 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Generic" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Generic" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Cnn/src/test" />
       <recent name="$PROJECT_DIR$/Amazon/src/test" />
@@ -146,74 +205,86 @@
     </state>
     <state x="563" y="163" key="#Project_Structure/0.23.1920.977@0.23.1920.977" timestamp="1579448414501" />
     <state x="563" y="163" key="#Project_Structure/0.23.1920.978@0.23.1920.978" timestamp="1579456273925" />
-    <state width="1801" height="265" key="GridCell.Tab.0.bottom" timestamp="1579456663040">
-      <screen x="0" y="23" width="1920" height="978" />
+    <state width="1825" height="265" key="GridCell.Tab.0.bottom" timestamp="1579973913341">
+      <screen x="0" y="23" width="1920" height="977" />
     </state>
+    <state width="1825" height="265" key="GridCell.Tab.0.bottom/0.23.1920.977@0.23.1920.977" timestamp="1579973913341" />
     <state width="1801" height="265" key="GridCell.Tab.0.bottom/0.23.1920.978@0.23.1920.978" timestamp="1579456663040" />
     <state width="1801" height="325" key="GridCell.Tab.0.bottom/0.23.1920.980@0.23.1920.980" timestamp="1579456105670" />
-    <state width="1801" height="265" key="GridCell.Tab.0.center" timestamp="1579456663039">
-      <screen x="0" y="23" width="1920" height="978" />
+    <state width="1801" height="265" key="GridCell.Tab.0.bottom/0.23.2048.1049@0.23.2048.1049" timestamp="1579472185117" />
+    <state width="1825" height="265" key="GridCell.Tab.0.center" timestamp="1579973913341">
+      <screen x="0" y="23" width="1920" height="977" />
     </state>
+    <state width="1825" height="265" key="GridCell.Tab.0.center/0.23.1920.977@0.23.1920.977" timestamp="1579973913341" />
     <state width="1801" height="265" key="GridCell.Tab.0.center/0.23.1920.978@0.23.1920.978" timestamp="1579456663039" />
     <state width="1801" height="325" key="GridCell.Tab.0.center/0.23.1920.980@0.23.1920.980" timestamp="1579456105669" />
-    <state width="1801" height="265" key="GridCell.Tab.0.left" timestamp="1579456663038">
-      <screen x="0" y="23" width="1920" height="978" />
+    <state width="1801" height="265" key="GridCell.Tab.0.center/0.23.2048.1049@0.23.2048.1049" timestamp="1579472185116" />
+    <state width="1825" height="265" key="GridCell.Tab.0.left" timestamp="1579973913340">
+      <screen x="0" y="23" width="1920" height="977" />
     </state>
+    <state width="1825" height="265" key="GridCell.Tab.0.left/0.23.1920.977@0.23.1920.977" timestamp="1579973913340" />
     <state width="1801" height="265" key="GridCell.Tab.0.left/0.23.1920.978@0.23.1920.978" timestamp="1579456663038" />
     <state width="1801" height="325" key="GridCell.Tab.0.left/0.23.1920.980@0.23.1920.980" timestamp="1579456105669" />
-    <state width="1801" height="265" key="GridCell.Tab.0.right" timestamp="1579456663040">
-      <screen x="0" y="23" width="1920" height="978" />
+    <state width="1801" height="265" key="GridCell.Tab.0.left/0.23.2048.1049@0.23.2048.1049" timestamp="1579472185116" />
+    <state width="1825" height="265" key="GridCell.Tab.0.right" timestamp="1579973913341">
+      <screen x="0" y="23" width="1920" height="977" />
     </state>
+    <state width="1825" height="265" key="GridCell.Tab.0.right/0.23.1920.977@0.23.1920.977" timestamp="1579973913341" />
     <state width="1801" height="265" key="GridCell.Tab.0.right/0.23.1920.978@0.23.1920.978" timestamp="1579456663040" />
     <state width="1801" height="325" key="GridCell.Tab.0.right/0.23.1920.980@0.23.1920.980" timestamp="1579456105670" />
-    <state width="1801" height="265" key="GridCell.Tab.1.bottom" timestamp="1579456663041">
-      <screen x="0" y="23" width="1920" height="978" />
+    <state width="1801" height="265" key="GridCell.Tab.0.right/0.23.2048.1049@0.23.2048.1049" timestamp="1579472185117" />
+    <state width="1825" height="265" key="GridCell.Tab.1.bottom" timestamp="1579973913343">
+      <screen x="0" y="23" width="1920" height="977" />
     </state>
+    <state width="1825" height="265" key="GridCell.Tab.1.bottom/0.23.1920.977@0.23.1920.977" timestamp="1579973913343" />
     <state width="1801" height="265" key="GridCell.Tab.1.bottom/0.23.1920.978@0.23.1920.978" timestamp="1579456663041" />
     <state width="1801" height="325" key="GridCell.Tab.1.bottom/0.23.1920.980@0.23.1920.980" timestamp="1579456177244" />
-    <state width="1801" height="265" key="GridCell.Tab.1.center" timestamp="1579456663041">
-      <screen x="0" y="23" width="1920" height="978" />
+    <state width="1801" height="265" key="GridCell.Tab.1.bottom/0.23.2048.1049@0.23.2048.1049" timestamp="1579472185118" />
+    <state width="1825" height="265" key="GridCell.Tab.1.center" timestamp="1579973913342">
+      <screen x="0" y="23" width="1920" height="977" />
     </state>
+    <state width="1825" height="265" key="GridCell.Tab.1.center/0.23.1920.977@0.23.1920.977" timestamp="1579973913342" />
     <state width="1801" height="265" key="GridCell.Tab.1.center/0.23.1920.978@0.23.1920.978" timestamp="1579456663041" />
     <state width="1801" height="325" key="GridCell.Tab.1.center/0.23.1920.980@0.23.1920.980" timestamp="1579456177243" />
-    <state width="1801" height="265" key="GridCell.Tab.1.left" timestamp="1579456663040">
-      <screen x="0" y="23" width="1920" height="978" />
+    <state width="1801" height="265" key="GridCell.Tab.1.center/0.23.2048.1049@0.23.2048.1049" timestamp="1579472185118" />
+    <state width="1825" height="265" key="GridCell.Tab.1.left" timestamp="1579973913342">
+      <screen x="0" y="23" width="1920" height="977" />
     </state>
+    <state width="1825" height="265" key="GridCell.Tab.1.left/0.23.1920.977@0.23.1920.977" timestamp="1579973913342" />
     <state width="1801" height="265" key="GridCell.Tab.1.left/0.23.1920.978@0.23.1920.978" timestamp="1579456663040" />
     <state width="1801" height="325" key="GridCell.Tab.1.left/0.23.1920.980@0.23.1920.980" timestamp="1579456177242" />
-    <state width="1801" height="265" key="GridCell.Tab.1.right" timestamp="1579456663041">
-      <screen x="0" y="23" width="1920" height="978" />
+    <state width="1801" height="265" key="GridCell.Tab.1.left/0.23.2048.1049@0.23.2048.1049" timestamp="1579472185118" />
+    <state width="1825" height="265" key="GridCell.Tab.1.right" timestamp="1579973913343">
+      <screen x="0" y="23" width="1920" height="977" />
     </state>
+    <state width="1825" height="265" key="GridCell.Tab.1.right/0.23.1920.977@0.23.1920.977" timestamp="1579973913343" />
     <state width="1801" height="265" key="GridCell.Tab.1.right/0.23.1920.978@0.23.1920.978" timestamp="1579456663041" />
     <state width="1801" height="325" key="GridCell.Tab.1.right/0.23.1920.980@0.23.1920.980" timestamp="1579456177243" />
-    <state x="446" y="132" key="SettingsEditor" timestamp="1579454546005">
-      <screen x="0" y="23" width="1920" height="980" />
+    <state width="1801" height="265" key="GridCell.Tab.1.right/0.23.2048.1049@0.23.2048.1049" timestamp="1579472185118" />
+    <state x="446" y="132" key="SettingsEditor" timestamp="1579967205621">
+      <screen x="0" y="23" width="1920" height="977" />
     </state>
+    <state x="446" y="132" key="SettingsEditor/0.23.1920.977@0.23.1920.977" timestamp="1579967205621" />
     <state x="446" y="132" key="SettingsEditor/0.23.1920.978@0.23.1920.978" timestamp="1579451871437" />
     <state x="446" y="132" key="SettingsEditor/0.23.1920.980@0.23.1920.980" timestamp="1579454546005" />
-    <state x="393" y="195" key="new project wizard" timestamp="1579451120244">
-      <screen x="0" y="23" width="1920" height="978" />
+    <state x="393" y="195" key="new project wizard" timestamp="1579457729881">
+      <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state x="393" y="195" key="new project wizard/0.23.1920.977@0.23.1920.977" timestamp="1579448216579" />
+    <state x="393" y="195" key="new project wizard/0.23.1920.977@0.23.1920.977" timestamp="1579457729881" />
     <state x="393" y="195" key="new project wizard/0.23.1920.978@0.23.1920.978" timestamp="1579451120244" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Amazon/src/main/java/home/AmazonHome.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java</url>
-          <line>43</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java</url>
-          <line>143</line>
+          <line>221</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Amazon/src/test/java/search/TestSearch.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
