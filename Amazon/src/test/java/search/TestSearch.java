@@ -11,5 +11,6 @@ public class TestSearch extends CommonAPI {
     public void searchItems(){
         SearchPage searchPage = PageFactory.initElements(driver, SearchPage.class);
         searchPage.clearTypeNClickOnSearch();
+        System.out.println("I am potential conflict");
     }
 }
