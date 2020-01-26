@@ -1,16 +1,159 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5376f51a-bb6b-4f3e-83fd-51bd252e102a" name="Default Changelist" comment="" />
+    <list default="true" id="5376f51a-bb6b-4f3e-83fd-51bd252e102a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Amazon/src/main/java/datasuply/DataSource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic/secret.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToMongoDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToSqlDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/databases/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/databases/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/utility/DataReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/src/main/java/home/SearchPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/src/main/java/home/SearchPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/src/test/java/search/TestSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/src/test/java/search/TestSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/classes/home/AmazonHome.class" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/classes/home/AmazonHome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/classes/home/SearchPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/classes/home/SearchPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/test-classes/search/TestSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/test-classes/search/TestSearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/Generic.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/classes/base/CommonAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/base/CommonAPI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebAutomationDec2019.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/Amazon/target/" />
+    <ignored path="$PROJECT_DIR$/Generic/target/" />
+    <ignored path="$PROJECT_DIR$/Cnn/target/" />
+    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="326">
+              <caret line="45" column="35" selection-start-line="45" selection-start-column="35" selection-end-line="45" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DataReader.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/utility/DataReader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="18" column="32" lean-forward="true" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DataSource.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/datasuply/DataSource.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="29" column="42" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SearchPage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/home/SearchPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HomePage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Cnn/src/main/java/home/HomePage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-319">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestSearch.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/search/TestSearch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CommonAPI.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="393">
+              <caret line="61" column="151" selection-start-line="61" selection-start-column="151" selection-end-line="61" selection-end-column="151" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConnectToMongoDB.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToMongoDB.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-316">
+              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConnectToSqlDB.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToSqlDB.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-344">
+              <caret line="23" column="125" selection-start-line="23" selection-start-column="125" selection-end-line="23" selection-end-column="125" />
+              <folding>
+                <element signature="e#1608#1616#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="secret.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Generic/secret.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="27" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/Generic/pom.xml" />
+        <option value="$PROJECT_DIR$/Amazon/src/test/java/search/TestSearch.java" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" />
+        <option value="$PROJECT_DIR$/Amazon/src/main/java/menu/DataSource.java" />
+        <option value="$PROJECT_DIR$/Amazon/src/main/java/datasuply/DataSource.java" />
+        <option value="$PROJECT_DIR$/Amazon/src/main/java/home/SearchPage.java" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToSqlDB.java" />
       </list>
     </option>
   </component>
@@ -21,7 +164,190 @@
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-50" />
+    <option name="y" value="23" />
+    <option name="width" value="1436" />
+    <option name="height" value="823" />
+  </component>
   <component name="ProjectId" id="1WcTqwrdxSYrLX9VIYrC2jewIOZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="WebAutomationDecember2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAutomationDecember2019" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebAutomationDecember2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAutomationDecember2019" type="462c0819:PsiDirectoryNode" />
+              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebAutomationDecember2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAutomationDecember2019" type="462c0819:PsiDirectoryNode" />
+              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebAutomationDecember2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAutomationDecember2019" type="462c0819:PsiDirectoryNode" />
+              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebAutomationDecember2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAutomationDecember2019" type="462c0819:PsiDirectoryNode" />
+              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebAutomationDecember2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAutomationDecember2019" type="462c0819:PsiDirectoryNode" />
+              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="datasuply" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebAutomationDecember2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAutomationDecember2019" type="462c0819:PsiDirectoryNode" />
+              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebAutomationDecember2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAutomationDecember2019" type="462c0819:PsiDirectoryNode" />
+              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebAutomationDecember2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAutomationDecember2019" type="462c0819:PsiDirectoryNode" />
+              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebAutomationDecember2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAutomationDecember2019" type="462c0819:PsiDirectoryNode" />
+              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="search" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebAutomationDecember2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAutomationDecember2019" type="462c0819:PsiDirectoryNode" />
+              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebAutomationDecember2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAutomationDecember2019" type="462c0819:PsiDirectoryNode" />
+              <item name="Cnn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebAutomationDecember2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAutomationDecember2019" type="462c0819:PsiDirectoryNode" />
+              <item name="Cnn" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebAutomationDecember2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAutomationDecember2019" type="462c0819:PsiDirectoryNode" />
+              <item name="Cnn" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebAutomationDecember2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAutomationDecember2019" type="462c0819:PsiDirectoryNode" />
+              <item name="Cnn" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebAutomationDecember2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAutomationDecember2019" type="462c0819:PsiDirectoryNode" />
+              <item name="Cnn" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebAutomationDecember2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAutomationDecember2019" type="462c0819:PsiDirectoryNode" />
+              <item name="Cnn" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="news" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebAutomationDecember2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAutomationDecember2019" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebAutomationDecember2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAutomationDecember2019" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebAutomationDecember2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAutomationDecember2019" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebAutomationDecember2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAutomationDecember2019" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebAutomationDecember2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebAutomationDecember2019" type="462c0819:PsiDirectoryNode" />
+              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="databases" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+    </panes>
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -29,6 +355,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Generic" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -39,9 +367,39 @@
       <recent name="$PROJECT_DIR$/Cnn/src/test" />
       <recent name="$PROJECT_DIR$/Amazon/src/test" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="menu" />
+      <recent name="utility" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Generic" />
+      <recent name="$PROJECT_DIR$/Generic/src/main/java" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
   </component>
   <component name="RunManager" selected="TestNG./Users/peoplentechny/IdeaProjects/WebAutomationDec2019/Amazon/src/test/resources/AmazonTestRunner.xml">
-    <configuration name="AmazonHome.test1" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="DataSource" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datasuply.DataSource" />
+      <module name="Amazon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="datasuply.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="AmazonHome.test1" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Amazon" />
       <extension name="coverage">
         <pattern>
@@ -49,17 +407,28 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
       <option name="PACKAGE_NAME" value="home" />
       <option name="MAIN_CLASS_NAME" value="home.AmazonHome" />
       <option name="METHOD_NAME" value="test1" />
+      <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
       <properties />
       <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
-    <configuration name="CnnTest.newsUpdate" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="CnnTest.newsUpdate" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Cnn" />
       <extension name="coverage">
         <pattern>
@@ -67,39 +436,84 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
       <option name="PACKAGE_NAME" value="news" />
       <option name="MAIN_CLASS_NAME" value="news.CnnTest" />
       <option name="METHOD_NAME" value="newsUpdate" />
+      <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
       <properties />
       <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
-    <configuration name="/Users/peoplentechny/IdeaProjects/WebAutomationDec2019/Amazon/src/test/resources/AmazonTestRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="/Users/peoplentechny/IdeaProjects/WebAutomationDec2019/Amazon/src/test/resources/AmazonTestRunner.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Amazon" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/Amazon/src/test/resources/AmazonTestRunner.xml" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="SUITE" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
       <properties />
       <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
-    <configuration name="/Users/peoplentechny/IdeaProjects/WebAutomationDec2019/Cnn/src/test/resources/CnnTestRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="/Users/peoplentechny/IdeaProjects/WebAutomationDec2019/Cnn/src/test/resources/CnnTestRunner.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Cnn" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/Cnn/src/test/resources/CnnTestRunner.xml" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="SUITE" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
       <properties />
       <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
+    <list>
+      <item itemvalue="TestNG./Users/peoplentechny/IdeaProjects/WebAutomationDec2019/Amazon/src/test/resources/AmazonTestRunner.xml" />
+      <item itemvalue="TestNG./Users/peoplentechny/IdeaProjects/WebAutomationDec2019/Cnn/src/test/resources/CnnTestRunner.xml" />
+      <item itemvalue="TestNG.AmazonHome.test1" />
+      <item itemvalue="TestNG.CnnTest.newsUpdate" />
+      <item itemvalue="Application.DataSource" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="TestNG./Users/peoplentechny/IdeaProjects/WebAutomationDec2019/Amazon/src/test/resources/AmazonTestRunner.xml" />
+        <item itemvalue="Application.DataSource" />
         <item itemvalue="TestNG.AmazonHome.test1" />
         <item itemvalue="TestNG./Users/peoplentechny/IdeaProjects/WebAutomationDec2019/Cnn/src/test/resources/CnnTestRunner.xml" />
         <item itemvalue="TestNG.CnnTest.newsUpdate" />
@@ -131,82 +545,251 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="_Users_peoplentechny_IdeaProjects_WebAutomationDec2019_Amazon_src_test_resources_AmazonTestRunner_xml - 2020.01.26 at 09h 55m 48s.xml">
+      <configuration name="/Users/peoplentechny/IdeaProjects/WebAutomationDec2019/Amazon/src/test/resources/AmazonTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_peoplentechny_IdeaProjects_WebAutomationDec2019_Amazon_src_test_resources_AmazonTestRunner_xml - 2020.01.26 at 09h 56m 54s.xml">
+      <configuration name="/Users/peoplentechny/IdeaProjects/WebAutomationDec2019/Amazon/src/test/resources/AmazonTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_peoplentechny_IdeaProjects_WebAutomationDec2019_Amazon_src_test_resources_AmazonTestRunner_xml - 2020.01.26 at 09h 58m 04s.xml">
+      <configuration name="/Users/peoplentechny/IdeaProjects/WebAutomationDec2019/Amazon/src/test/resources/AmazonTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_peoplentechny_IdeaProjects_WebAutomationDec2019_Amazon_src_test_resources_AmazonTestRunner_xml - 2020.01.26 at 10h 15m 23s.xml">
+      <configuration name="/Users/peoplentechny/IdeaProjects/WebAutomationDec2019/Amazon/src/test/resources/AmazonTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_peoplentechny_IdeaProjects_WebAutomationDec2019_Amazon_src_test_resources_AmazonTestRunner_xml - 2020.01.26 at 10h 16m 38s.xml">
+      <configuration name="/Users/peoplentechny/IdeaProjects/WebAutomationDec2019/Amazon/src/test/resources/AmazonTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="4" y="23" width="1436" height="823" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" weight="0.32977304" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info id="Image Layers" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32977304" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32977304" />
+      <window_info id="Capture Tool" />
+      <window_info id="Designer" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.2376502" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="563" y="163" key="#Project_Structure" timestamp="1579456273925">
       <screen x="0" y="23" width="1920" height="978" />
     </state>
     <state x="563" y="163" key="#Project_Structure/0.23.1920.977@0.23.1920.977" timestamp="1579448414501" />
     <state x="563" y="163" key="#Project_Structure/0.23.1920.978@0.23.1920.978" timestamp="1579456273925" />
-    <state width="1801" height="325" key="GridCell.Tab.0.bottom" timestamp="1579456164736">
-      <screen x="0" y="23" width="1920" height="978" />
+    <state width="1825" height="265" key="GridCell.Tab.0.bottom" timestamp="1579973913341">
+      <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state width="1801" height="325" key="GridCell.Tab.0.bottom/0.23.1920.978@0.23.1920.978" timestamp="1579456164736" />
+    <state width="1825" height="265" key="GridCell.Tab.0.bottom/0.23.1920.977@0.23.1920.977" timestamp="1579973913341" />
+    <state width="1801" height="265" key="GridCell.Tab.0.bottom/0.23.1920.978@0.23.1920.978" timestamp="1579456663040" />
     <state width="1801" height="325" key="GridCell.Tab.0.bottom/0.23.1920.980@0.23.1920.980" timestamp="1579456105670" />
-    <state width="1801" height="325" key="GridCell.Tab.0.center" timestamp="1579456164735">
-      <screen x="0" y="23" width="1920" height="978" />
+    <state width="1801" height="265" key="GridCell.Tab.0.bottom/0.23.2048.1049@0.23.2048.1049" timestamp="1579472185117" />
+    <state width="1825" height="265" key="GridCell.Tab.0.center" timestamp="1579973913341">
+      <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state width="1801" height="325" key="GridCell.Tab.0.center/0.23.1920.978@0.23.1920.978" timestamp="1579456164735" />
+    <state width="1825" height="265" key="GridCell.Tab.0.center/0.23.1920.977@0.23.1920.977" timestamp="1579973913341" />
+    <state width="1801" height="265" key="GridCell.Tab.0.center/0.23.1920.978@0.23.1920.978" timestamp="1579456663039" />
     <state width="1801" height="325" key="GridCell.Tab.0.center/0.23.1920.980@0.23.1920.980" timestamp="1579456105669" />
-    <state width="1801" height="325" key="GridCell.Tab.0.left" timestamp="1579456164734">
-      <screen x="0" y="23" width="1920" height="978" />
+    <state width="1801" height="265" key="GridCell.Tab.0.center/0.23.2048.1049@0.23.2048.1049" timestamp="1579472185116" />
+    <state width="1825" height="265" key="GridCell.Tab.0.left" timestamp="1579973913340">
+      <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state width="1801" height="325" key="GridCell.Tab.0.left/0.23.1920.978@0.23.1920.978" timestamp="1579456164734" />
+    <state width="1825" height="265" key="GridCell.Tab.0.left/0.23.1920.977@0.23.1920.977" timestamp="1579973913340" />
+    <state width="1801" height="265" key="GridCell.Tab.0.left/0.23.1920.978@0.23.1920.978" timestamp="1579456663038" />
     <state width="1801" height="325" key="GridCell.Tab.0.left/0.23.1920.980@0.23.1920.980" timestamp="1579456105669" />
-    <state width="1801" height="325" key="GridCell.Tab.0.right" timestamp="1579456164736">
-      <screen x="0" y="23" width="1920" height="978" />
+    <state width="1801" height="265" key="GridCell.Tab.0.left/0.23.2048.1049@0.23.2048.1049" timestamp="1579472185116" />
+    <state width="1825" height="265" key="GridCell.Tab.0.right" timestamp="1579973913341">
+      <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state width="1801" height="325" key="GridCell.Tab.0.right/0.23.1920.978@0.23.1920.978" timestamp="1579456164736" />
+    <state width="1825" height="265" key="GridCell.Tab.0.right/0.23.1920.977@0.23.1920.977" timestamp="1579973913341" />
+    <state width="1801" height="265" key="GridCell.Tab.0.right/0.23.1920.978@0.23.1920.978" timestamp="1579456663040" />
     <state width="1801" height="325" key="GridCell.Tab.0.right/0.23.1920.980@0.23.1920.980" timestamp="1579456105670" />
-    <state width="1801" height="325" key="GridCell.Tab.1.bottom" timestamp="1579456177244">
-      <screen x="0" y="23" width="1920" height="980" />
+    <state width="1801" height="265" key="GridCell.Tab.0.right/0.23.2048.1049@0.23.2048.1049" timestamp="1579472185117" />
+    <state width="1825" height="265" key="GridCell.Tab.1.bottom" timestamp="1579973913343">
+      <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state width="1801" height="325" key="GridCell.Tab.1.bottom/0.23.1920.978@0.23.1920.978" timestamp="1579456164621" />
+    <state width="1825" height="265" key="GridCell.Tab.1.bottom/0.23.1920.977@0.23.1920.977" timestamp="1579973913343" />
+    <state width="1801" height="265" key="GridCell.Tab.1.bottom/0.23.1920.978@0.23.1920.978" timestamp="1579456663041" />
     <state width="1801" height="325" key="GridCell.Tab.1.bottom/0.23.1920.980@0.23.1920.980" timestamp="1579456177244" />
-    <state width="1801" height="325" key="GridCell.Tab.1.center" timestamp="1579456177243">
-      <screen x="0" y="23" width="1920" height="980" />
+    <state width="1801" height="265" key="GridCell.Tab.1.bottom/0.23.2048.1049@0.23.2048.1049" timestamp="1579472185118" />
+    <state width="1825" height="265" key="GridCell.Tab.1.center" timestamp="1579973913342">
+      <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state width="1801" height="325" key="GridCell.Tab.1.center/0.23.1920.978@0.23.1920.978" timestamp="1579456164620" />
+    <state width="1825" height="265" key="GridCell.Tab.1.center/0.23.1920.977@0.23.1920.977" timestamp="1579973913342" />
+    <state width="1801" height="265" key="GridCell.Tab.1.center/0.23.1920.978@0.23.1920.978" timestamp="1579456663041" />
     <state width="1801" height="325" key="GridCell.Tab.1.center/0.23.1920.980@0.23.1920.980" timestamp="1579456177243" />
-    <state width="1801" height="325" key="GridCell.Tab.1.left" timestamp="1579456177242">
-      <screen x="0" y="23" width="1920" height="980" />
+    <state width="1801" height="265" key="GridCell.Tab.1.center/0.23.2048.1049@0.23.2048.1049" timestamp="1579472185118" />
+    <state width="1825" height="265" key="GridCell.Tab.1.left" timestamp="1579973913342">
+      <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state width="1801" height="325" key="GridCell.Tab.1.left/0.23.1920.978@0.23.1920.978" timestamp="1579456164620" />
+    <state width="1825" height="265" key="GridCell.Tab.1.left/0.23.1920.977@0.23.1920.977" timestamp="1579973913342" />
+    <state width="1801" height="265" key="GridCell.Tab.1.left/0.23.1920.978@0.23.1920.978" timestamp="1579456663040" />
     <state width="1801" height="325" key="GridCell.Tab.1.left/0.23.1920.980@0.23.1920.980" timestamp="1579456177242" />
-    <state width="1801" height="325" key="GridCell.Tab.1.right" timestamp="1579456177243">
-      <screen x="0" y="23" width="1920" height="980" />
+    <state width="1801" height="265" key="GridCell.Tab.1.left/0.23.2048.1049@0.23.2048.1049" timestamp="1579472185118" />
+    <state width="1825" height="265" key="GridCell.Tab.1.right" timestamp="1579973913343">
+      <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state width="1801" height="325" key="GridCell.Tab.1.right/0.23.1920.978@0.23.1920.978" timestamp="1579456164621" />
+    <state width="1825" height="265" key="GridCell.Tab.1.right/0.23.1920.977@0.23.1920.977" timestamp="1579973913343" />
+    <state width="1801" height="265" key="GridCell.Tab.1.right/0.23.1920.978@0.23.1920.978" timestamp="1579456663041" />
     <state width="1801" height="325" key="GridCell.Tab.1.right/0.23.1920.980@0.23.1920.980" timestamp="1579456177243" />
-    <state x="446" y="132" key="SettingsEditor" timestamp="1579454546005">
-      <screen x="0" y="23" width="1920" height="980" />
+    <state width="1801" height="265" key="GridCell.Tab.1.right/0.23.2048.1049@0.23.2048.1049" timestamp="1579472185118" />
+    <state x="446" y="132" key="SettingsEditor" timestamp="1579967205621">
+      <screen x="0" y="23" width="1920" height="977" />
     </state>
+    <state x="446" y="132" key="SettingsEditor/0.23.1920.977@0.23.1920.977" timestamp="1579967205621" />
     <state x="446" y="132" key="SettingsEditor/0.23.1920.978@0.23.1920.978" timestamp="1579451871437" />
     <state x="446" y="132" key="SettingsEditor/0.23.1920.980@0.23.1920.980" timestamp="1579454546005" />
-    <state x="393" y="195" key="new project wizard" timestamp="1579451120244">
-      <screen x="0" y="23" width="1920" height="978" />
+    <state x="393" y="195" key="new project wizard" timestamp="1579457729881">
+      <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state x="393" y="195" key="new project wizard/0.23.1920.977@0.23.1920.977" timestamp="1579448216579" />
+    <state x="393" y="195" key="new project wizard/0.23.1920.977@0.23.1920.977" timestamp="1579457729881" />
     <state x="393" y="195" key="new project wizard/0.23.1920.978@0.23.1920.978" timestamp="1579451120244" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Amazon/src/main/java/home/AmazonHome.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java</url>
-          <line>31</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java</url>
-          <line>46</line>
+          <line>221</line>
+          <properties />
           <option name="timeStamp" value="4" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Amazon/src/test/java/search/TestSearch.java</url>
+          <line>15</line>
+          <properties />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Amazon/src/main/java/datasuply/DataSource.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
       </breakpoints>
+      <option name="time" value="2" />
     </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/databases/User.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="36" column="40" selection-start-line="36" selection-start-column="40" selection-end-line="36" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/databases/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/test/resources/AmazonTestRunner.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="61" column="151" selection-start-line="61" selection-start-column="151" selection-end-line="61" selection-end-column="151" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="45" column="35" selection-start-line="45" selection-start-column="35" selection-end-line="45" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/search/TestSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToMongoDB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-316">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/utility/DataReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="32" lean-forward="true" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cnn/src/main/java/home/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-319">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/datasuply/DataSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="29" column="42" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/home/SearchPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/secret.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="27" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToSqlDB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-344">
+          <caret line="23" column="125" selection-start-line="23" selection-start-column="125" selection-end-line="23" selection-end-column="125" />
+          <folding>
+            <element signature="e#1608#1616#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
