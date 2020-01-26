@@ -14,7 +14,7 @@
     <test name = "Amazon Home">
         <classes>
             <class name="dropDownMenu.TestDropDownMenuItems"/>
-<!--            <class name="search.TestSearch"/>-->
+            <class name="search.TestSearch"/>
         </classes>
     </test>
 
