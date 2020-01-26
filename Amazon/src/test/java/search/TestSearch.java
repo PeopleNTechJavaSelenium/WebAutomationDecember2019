@@ -14,5 +14,6 @@ public class TestSearch extends CommonAPI {
     public void searchItems()throws Exception, IOException, SQLException, ClassNotFoundException{
         SearchPage searchPage = PageFactory.initElements(driver, SearchPage.class);
         searchPage.searchItemsAndSubmitButton();
+        System.out.println("I am upcoming conflict");
     }
 }
