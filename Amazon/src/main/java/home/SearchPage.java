@@ -1,10 +1,12 @@
 package home;
 
-import base.CommonAPI;
+import datasuply.DataSource;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.How;
 
+import java.io.IOException;
+import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -45,6 +47,14 @@ public class SearchPage {
 
     }
 
+    public void searchItemsAndSubmitButton()throws Exception, IOException, SQLException, ClassNotFoundException{
+        List<String> list = DataSource.getItemsListFromDB();
+        for(int i=0; i<list.size(); i++) {
+            typeItemName(list.get(i));
+            clickOnSearch();
+            clearInputBox();
+        }
+    }
     public List<String> getItems(){
         List<String> itemsList = new ArrayList<String>();
         itemsList.add("books");
