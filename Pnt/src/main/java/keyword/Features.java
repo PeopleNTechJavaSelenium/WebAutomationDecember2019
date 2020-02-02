@@ -2,7 +2,7 @@ package keyword;
 
 import authentication.LogInPage;
 import authentication.popup.HandlePopUp;
-import common.CommonAPI;
+import base.CommonAPI;
 import org.openqa.selenium.InvalidArgumentException;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.PageFactory;
