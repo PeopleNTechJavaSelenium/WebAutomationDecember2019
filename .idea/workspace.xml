@@ -2,24 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5376f51a-bb6b-4f3e-83fd-51bd252e102a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Amazon/src/main/java/datasuply/DataSource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/secret.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToMongoDB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/databases/ConnectToSqlDB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/databases/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/databases/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/utility/DataReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W3Schools/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W3Schools/src/main/java/table/TableData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W3Schools/src/test/java/dynamictable/TestTableData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W3Schools/src/test/resources/W3SchoolsTestRunner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/src/main/java/home/SearchPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/src/main/java/home/SearchPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/classes/home/AmazonHome.class" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/classes/home/AmazonHome.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/classes/home/SearchPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/classes/home/SearchPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/test-classes/search/TestSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/test-classes/search/TestSearch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/Generic.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/classes/base/CommonAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/base/CommonAPI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebAutomationDec2019.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,12 +32,6 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-50" />
-    <option name="y" value="23" />
-    <option name="width" value="1436" />
-    <option name="height" value="823" />
-  </component>
   <component name="ProjectId" id="1WcTqwrdxSYrLX9VIYrC2jewIOZ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -67,20 +49,21 @@
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Cnn/src/test" />
-      <recent name="$PROJECT_DIR$/Amazon/src/test" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Generic" />
+      <recent name="$PROJECT_DIR$/Generic/src/main/java" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="menu" />
       <recent name="utility" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Generic" />
-      <recent name="$PROJECT_DIR$/Generic/src/main/java" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/W3Schools/src/test" />
+      <recent name="$PROJECT_DIR$/Cnn/src/test" />
+      <recent name="$PROJECT_DIR$/Amazon/src/test" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG./Users/peoplentechny/IdeaProjects/WebAutomationDec2019/Amazon/src/test/resources/AmazonTestRunner.xml">
+  <component name="RunManager" selected="TestNG./Users/peoplentechny/IdeaProjects/WebAutomationDec2019/W3Schools/src/test/resources/W3SchoolsTestRunner.xml">
     <configuration name="DataSource" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="datasuply.DataSource" />
       <module name="Amazon" />
@@ -114,20 +97,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CnnTest.newsUpdate" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Cnn" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="news.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="news" />
-      <option name="MAIN_CLASS_NAME" value="news.CnnTest" />
-      <option name="METHOD_NAME" value="newsUpdate" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="VM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
+    <configuration name="/Users/peoplentechny/IdeaProjects/WebAutomationDec2019/Amazon/src/test/resources/AmazonTestRunner.xml (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Amazon" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Amazon/src/test/resources/AmazonTestRunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
@@ -146,12 +119,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="/Users/peoplentechny/IdeaProjects/WebAutomationDec2019/Cnn/src/test/resources/CnnTestRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Cnn" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/Cnn/src/test/resources/CnnTestRunner.xml" />
+    <configuration name="/Users/peoplentechny/IdeaProjects/WebAutomationDec2019/W3Schools/src/test/resources/W3SchoolsTestRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="W3Schools" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/W3Schools/src/test/resources/W3SchoolsTestRunner.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
-      <option name="VM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
       <properties />
       <listeners />
       <method v="2">
@@ -161,17 +132,17 @@
     <list>
       <item itemvalue="Application.DataSource" />
       <item itemvalue="TestNG./Users/peoplentechny/IdeaProjects/WebAutomationDec2019/Amazon/src/test/resources/AmazonTestRunner.xml" />
-      <item itemvalue="TestNG./Users/peoplentechny/IdeaProjects/WebAutomationDec2019/Cnn/src/test/resources/CnnTestRunner.xml" />
       <item itemvalue="TestNG.AmazonHome.test1" />
-      <item itemvalue="TestNG.CnnTest.newsUpdate" />
+      <item itemvalue="TestNG./Users/peoplentechny/IdeaProjects/WebAutomationDec2019/Amazon/src/test/resources/AmazonTestRunner.xml (1)" />
+      <item itemvalue="TestNG./Users/peoplentechny/IdeaProjects/WebAutomationDec2019/W3Schools/src/test/resources/W3SchoolsTestRunner.xml" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG./Users/peoplentechny/IdeaProjects/WebAutomationDec2019/W3Schools/src/test/resources/W3SchoolsTestRunner.xml" />
+        <item itemvalue="TestNG./Users/peoplentechny/IdeaProjects/WebAutomationDec2019/Amazon/src/test/resources/AmazonTestRunner.xml (1)" />
         <item itemvalue="TestNG./Users/peoplentechny/IdeaProjects/WebAutomationDec2019/Amazon/src/test/resources/AmazonTestRunner.xml" />
         <item itemvalue="Application.DataSource" />
         <item itemvalue="TestNG.AmazonHome.test1" />
-        <item itemvalue="TestNG./Users/peoplentechny/IdeaProjects/WebAutomationDec2019/Cnn/src/test/resources/CnnTestRunner.xml" />
-        <item itemvalue="TestNG.CnnTest.newsUpdate" />
       </list>
     </recent_temporary>
   </component>
@@ -200,23 +171,6 @@
     </task>
     <servers />
   </component>
-  <component name="TestHistory">
-    <history-entry file="_Users_peoplentechny_IdeaProjects_WebAutomationDec2019_Amazon_src_test_resources_AmazonTestRunner_xml - 2020.01.26 at 09h 55m 48s.xml">
-      <configuration name="/Users/peoplentechny/IdeaProjects/WebAutomationDec2019/Amazon/src/test/resources/AmazonTestRunner.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="_Users_peoplentechny_IdeaProjects_WebAutomationDec2019_Amazon_src_test_resources_AmazonTestRunner_xml - 2020.01.26 at 09h 56m 54s.xml">
-      <configuration name="/Users/peoplentechny/IdeaProjects/WebAutomationDec2019/Amazon/src/test/resources/AmazonTestRunner.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="_Users_peoplentechny_IdeaProjects_WebAutomationDec2019_Amazon_src_test_resources_AmazonTestRunner_xml - 2020.01.26 at 09h 58m 04s.xml">
-      <configuration name="/Users/peoplentechny/IdeaProjects/WebAutomationDec2019/Amazon/src/test/resources/AmazonTestRunner.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="_Users_peoplentechny_IdeaProjects_WebAutomationDec2019_Amazon_src_test_resources_AmazonTestRunner_xml - 2020.01.26 at 10h 15m 23s.xml">
-      <configuration name="/Users/peoplentechny/IdeaProjects/WebAutomationDec2019/Amazon/src/test/resources/AmazonTestRunner.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="_Users_peoplentechny_IdeaProjects_WebAutomationDec2019_Amazon_src_test_resources_AmazonTestRunner_xml - 2020.01.26 at 10h 16m 38s.xml">
-      <configuration name="/Users/peoplentechny/IdeaProjects/WebAutomationDec2019/Amazon/src/test/resources/AmazonTestRunner.xml" configurationId="TestNG" />
-    </history-entry>
-  </component>
   <component name="WindowStateProjectService">
     <state x="563" y="163" key="#Project_Structure" timestamp="1579456273925">
       <screen x="0" y="23" width="1920" height="978" />
@@ -227,59 +181,59 @@
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state x="810" y="415" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1920.977@0.23.1920.977" timestamp="1580054156648" />
-    <state width="1825" height="265" key="GridCell.Tab.0.bottom" timestamp="1579973913341">
+    <state width="1825" height="303" key="GridCell.Tab.0.bottom" timestamp="1580058736598">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state width="1825" height="265" key="GridCell.Tab.0.bottom/0.23.1920.977@0.23.1920.977" timestamp="1579973913341" />
+    <state width="1825" height="303" key="GridCell.Tab.0.bottom/0.23.1920.977@0.23.1920.977" timestamp="1580058736598" />
     <state width="1801" height="265" key="GridCell.Tab.0.bottom/0.23.1920.978@0.23.1920.978" timestamp="1579456663040" />
     <state width="1801" height="325" key="GridCell.Tab.0.bottom/0.23.1920.980@0.23.1920.980" timestamp="1579456105670" />
     <state width="1801" height="265" key="GridCell.Tab.0.bottom/0.23.2048.1049@0.23.2048.1049" timestamp="1579472185117" />
-    <state width="1825" height="265" key="GridCell.Tab.0.center" timestamp="1579973913341">
+    <state width="1825" height="303" key="GridCell.Tab.0.center" timestamp="1580058736597">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state width="1825" height="265" key="GridCell.Tab.0.center/0.23.1920.977@0.23.1920.977" timestamp="1579973913341" />
+    <state width="1825" height="303" key="GridCell.Tab.0.center/0.23.1920.977@0.23.1920.977" timestamp="1580058736597" />
     <state width="1801" height="265" key="GridCell.Tab.0.center/0.23.1920.978@0.23.1920.978" timestamp="1579456663039" />
     <state width="1801" height="325" key="GridCell.Tab.0.center/0.23.1920.980@0.23.1920.980" timestamp="1579456105669" />
     <state width="1801" height="265" key="GridCell.Tab.0.center/0.23.2048.1049@0.23.2048.1049" timestamp="1579472185116" />
-    <state width="1825" height="265" key="GridCell.Tab.0.left" timestamp="1579973913340">
+    <state width="1825" height="303" key="GridCell.Tab.0.left" timestamp="1580058736597">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state width="1825" height="265" key="GridCell.Tab.0.left/0.23.1920.977@0.23.1920.977" timestamp="1579973913340" />
+    <state width="1825" height="303" key="GridCell.Tab.0.left/0.23.1920.977@0.23.1920.977" timestamp="1580058736597" />
     <state width="1801" height="265" key="GridCell.Tab.0.left/0.23.1920.978@0.23.1920.978" timestamp="1579456663038" />
     <state width="1801" height="325" key="GridCell.Tab.0.left/0.23.1920.980@0.23.1920.980" timestamp="1579456105669" />
     <state width="1801" height="265" key="GridCell.Tab.0.left/0.23.2048.1049@0.23.2048.1049" timestamp="1579472185116" />
-    <state width="1825" height="265" key="GridCell.Tab.0.right" timestamp="1579973913341">
+    <state width="1825" height="303" key="GridCell.Tab.0.right" timestamp="1580058736598">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state width="1825" height="265" key="GridCell.Tab.0.right/0.23.1920.977@0.23.1920.977" timestamp="1579973913341" />
+    <state width="1825" height="303" key="GridCell.Tab.0.right/0.23.1920.977@0.23.1920.977" timestamp="1580058736598" />
     <state width="1801" height="265" key="GridCell.Tab.0.right/0.23.1920.978@0.23.1920.978" timestamp="1579456663040" />
     <state width="1801" height="325" key="GridCell.Tab.0.right/0.23.1920.980@0.23.1920.980" timestamp="1579456105670" />
     <state width="1801" height="265" key="GridCell.Tab.0.right/0.23.2048.1049@0.23.2048.1049" timestamp="1579472185117" />
-    <state width="1825" height="265" key="GridCell.Tab.1.bottom" timestamp="1579973913343">
+    <state width="1825" height="328" key="GridCell.Tab.1.bottom" timestamp="1580058243640">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state width="1825" height="265" key="GridCell.Tab.1.bottom/0.23.1920.977@0.23.1920.977" timestamp="1579973913343" />
+    <state width="1825" height="328" key="GridCell.Tab.1.bottom/0.23.1920.977@0.23.1920.977" timestamp="1580058243640" />
     <state width="1801" height="265" key="GridCell.Tab.1.bottom/0.23.1920.978@0.23.1920.978" timestamp="1579456663041" />
     <state width="1801" height="325" key="GridCell.Tab.1.bottom/0.23.1920.980@0.23.1920.980" timestamp="1579456177244" />
     <state width="1801" height="265" key="GridCell.Tab.1.bottom/0.23.2048.1049@0.23.2048.1049" timestamp="1579472185118" />
-    <state width="1825" height="265" key="GridCell.Tab.1.center" timestamp="1579973913342">
+    <state width="1825" height="328" key="GridCell.Tab.1.center" timestamp="1580058243639">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state width="1825" height="265" key="GridCell.Tab.1.center/0.23.1920.977@0.23.1920.977" timestamp="1579973913342" />
+    <state width="1825" height="328" key="GridCell.Tab.1.center/0.23.1920.977@0.23.1920.977" timestamp="1580058243639" />
     <state width="1801" height="265" key="GridCell.Tab.1.center/0.23.1920.978@0.23.1920.978" timestamp="1579456663041" />
     <state width="1801" height="325" key="GridCell.Tab.1.center/0.23.1920.980@0.23.1920.980" timestamp="1579456177243" />
     <state width="1801" height="265" key="GridCell.Tab.1.center/0.23.2048.1049@0.23.2048.1049" timestamp="1579472185118" />
-    <state width="1825" height="265" key="GridCell.Tab.1.left" timestamp="1579973913342">
+    <state width="1825" height="328" key="GridCell.Tab.1.left" timestamp="1580058243639">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state width="1825" height="265" key="GridCell.Tab.1.left/0.23.1920.977@0.23.1920.977" timestamp="1579973913342" />
+    <state width="1825" height="328" key="GridCell.Tab.1.left/0.23.1920.977@0.23.1920.977" timestamp="1580058243639" />
     <state width="1801" height="265" key="GridCell.Tab.1.left/0.23.1920.978@0.23.1920.978" timestamp="1579456663040" />
     <state width="1801" height="325" key="GridCell.Tab.1.left/0.23.1920.980@0.23.1920.980" timestamp="1579456177242" />
     <state width="1801" height="265" key="GridCell.Tab.1.left/0.23.2048.1049@0.23.2048.1049" timestamp="1579472185118" />
-    <state width="1825" height="265" key="GridCell.Tab.1.right" timestamp="1579973913343">
+    <state width="1825" height="328" key="GridCell.Tab.1.right" timestamp="1580058243640">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state width="1825" height="265" key="GridCell.Tab.1.right/0.23.1920.977@0.23.1920.977" timestamp="1579973913343" />
+    <state width="1825" height="328" key="GridCell.Tab.1.right/0.23.1920.977@0.23.1920.977" timestamp="1580058243640" />
     <state width="1801" height="265" key="GridCell.Tab.1.right/0.23.1920.978@0.23.1920.978" timestamp="1579456663041" />
     <state width="1801" height="325" key="GridCell.Tab.1.right/0.23.1920.980@0.23.1920.980" timestamp="1579456177243" />
     <state width="1801" height="265" key="GridCell.Tab.1.right/0.23.2048.1049@0.23.2048.1049" timestamp="1579472185118" />
@@ -291,16 +245,16 @@
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state x="673" y="231" key="MultipleFileMergeDialog/0.23.1920.977@0.23.1920.977" timestamp="1580054147068" />
-    <state x="446" y="132" key="SettingsEditor" timestamp="1579967205621">
+    <state x="446" y="132" key="SettingsEditor" timestamp="1580058031358">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state x="446" y="132" key="SettingsEditor/0.23.1920.977@0.23.1920.977" timestamp="1579967205621" />
+    <state x="446" y="132" key="SettingsEditor/0.23.1920.977@0.23.1920.977" timestamp="1580058031358" />
     <state x="446" y="132" key="SettingsEditor/0.23.1920.978@0.23.1920.978" timestamp="1579451871437" />
     <state x="446" y="132" key="SettingsEditor/0.23.1920.980@0.23.1920.980" timestamp="1579454546005" />
-    <state x="393" y="195" key="new project wizard" timestamp="1579457729881">
+    <state x="393" y="195" key="new project wizard" timestamp="1580057466378">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state x="393" y="195" key="new project wizard/0.23.1920.977@0.23.1920.977" timestamp="1579457729881" />
+    <state x="393" y="195" key="new project wizard/0.23.1920.977@0.23.1920.977" timestamp="1580057466378" />
     <state x="393" y="195" key="new project wizard/0.23.1920.978@0.23.1920.978" timestamp="1579451120244" />
     <state x="622" y="244" width="670" height="676" key="search.everywhere.popup" timestamp="1580053978949">
       <screen x="0" y="23" width="1920" height="977" />
@@ -323,6 +277,21 @@
           <url>file://$PROJECT_DIR$/Amazon/src/main/java/datasuply/DataSource.java</url>
           <line>35</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Amazon/src/test/java/dropDownMenu/TestDropDownMenuItems.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/W3Schools/src/test/java/dynamictable/TestTableData.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/W3Schools/src/main/java/table/TableData.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="19" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

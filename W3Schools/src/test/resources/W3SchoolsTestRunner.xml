@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 
-<suite name="Amazon Automation Script " parallel="false">
+<suite name="W3Schools Automation Script " parallel="false">
 
     <parameter name="useCloudEnv" value="false"/>
     <parameter name="cloudEnvName" value="browserstack"/>
@@ -9,12 +9,11 @@
     <parameter name="os_version" value="Sierra"/>
     <parameter name="browserName" value="chrome"/>
     <parameter name="browserVersion" value="75.0"/>
-    <parameter name="url" value="https://www.amazon.com"/>
+    <parameter name="url" value="https://www.w3schools.com/sql/sql_where.asp"/>
 
-    <test name = "Amazon Home">
+    <test name = "W3Schools Table">
         <classes>
-            <class name="dropDownMenu.TestDropDownMenuItems"/>
-<!--            <class name="search.TestSearch"/>-->
+            <class name="dynamictable.TestTableData"/>
         </classes>
     </test>
 
