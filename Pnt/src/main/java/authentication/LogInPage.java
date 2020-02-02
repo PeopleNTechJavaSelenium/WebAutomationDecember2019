@@ -79,12 +79,12 @@ public class LogInPage {
         CommonAPI.clickOnElement(".button_submit",driver1);
     }
 
-    public void logInToPntForum(WebDriver driver1)throws InterruptedException{
-        HandlePopUp handlePopUp = PageFactory.initElements(driver1, HandlePopUp.class);
-        handlePopUp.handlePopUpWindowBeforeLogIn(driver1);
+    public void logInToPntForum(WebDriver driver)throws InterruptedException{
+        HandlePopUp handlePopUp = PageFactory.initElements(driver, HandlePopUp.class);
+        handlePopUp.handlePopUpWindowBeforeLogIn(driver);
         CommonAPI.sleepFor(2);
         clickOnLogInButton();
-        CommonAPI.handleNewTab(driver1);
+        CommonAPI.handleNewTab(driver);
         typeUserName();
         typePassword();
         clickOnAuthenticate();

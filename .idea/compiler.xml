@@ -10,6 +10,7 @@
         <module name="Cnn" />
         <module name="Generic" />
         <module name="Pnt" />
+        <module name="RestAPIServices" />
         <module name="W3Schools" />
       </profile>
     </annotationProcessing>
